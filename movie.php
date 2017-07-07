@@ -1,13 +1,7 @@
 <html>
 <head>
-	<title>Hello</title>
-<style>
-	
-}
-
-</style>		
+	<title>Classes and Objects in PHP</title>		
 </head>
-
 
 <body>
 	
@@ -53,8 +47,6 @@ $movie->set_movie('Unforgiven', 5.99, 'unforgiven.jpg');
 $movie->print_movie();
 
 ?>
-<pre>
-</pre>
 
 
 
